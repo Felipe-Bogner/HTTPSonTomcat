@@ -1,4 +1,4 @@
-# HTTPS onTomcat
+# HTTPS on Tomcat
 
 Enable HTTPS on your website running on Apache Tomcat on Windows Server 2019. Enabling HTTPS involves obtaining an SSL/TLS certificate and configuring Tomcat to use it. Below are the detailed steps to guide you through the process.
 
